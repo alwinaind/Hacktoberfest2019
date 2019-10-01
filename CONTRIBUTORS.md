@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Alwin Aind
+- Photo: https://avatars0.githubusercontent.com/u/22334579?s=40&v=4
+- Location: Delhi, India
+- Bio: Machine Learning Enthusiast
+- Github: https://github.com/alwinaind
